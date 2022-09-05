@@ -1,0 +1,21 @@
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.exe
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.deps.json
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.runtimeconfig.json
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.dll
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\bin\Debug\net5.0-windows\ref\Ejercicio I02-Atrapame si puedes.dll
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.pdb
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio_I02_Atrapame_si_puedes.form_Calculador.resources
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.AssemblyInfo.cs
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.dll
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\ref\Ejercicio I02-Atrapame si puedes.dll
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.pdb
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.genruntimeconfig.cache
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes(library).dll
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\bin\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes(library).pdb
+C:\Users\franc\source\repos\Excepciones\Ejercicio I02-Atrapame si puedes\obj\Debug\net5.0-windows\Ejercicio I02-Atrapame si puedes.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\bin\Debug\net5.0\I01 - Cartuchera(library).deps.json
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\bin\Debug\net5.0\I01 - Cartuchera(library).dll
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\bin\Debug\net5.0\ref\I01 - Cartuchera(library).dll
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\bin\Debug\net5.0\I01 - Cartuchera(library).pdb
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\obj\Debug\net5.0\I01 - Cartuchera(library).csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\obj\Debug\net5.0\I01 - Cartuchera(library).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\obj\Debug\net5.0\I01 - Cartuchera(library).AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\obj\Debug\net5.0\I01 - Cartuchera(library).AssemblyInfo.cs
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\obj\Debug\net5.0\I01 - Cartuchera(library).csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\obj\Debug\net5.0\I01 - Cartuchera(library).dll
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\obj\Debug\net5.0\ref\I01 - Cartuchera(library).dll
+C:\Users\franc\source\repos\Interfaces\I01 - Cartuchera(library)\obj\Debug\net5.0\I01 - Cartuchera(library).pdb

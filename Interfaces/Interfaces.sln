@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01 - Cartuchera(library)", "I01 - Cartuchera(library)\I01 - Cartuchera(library).csproj", "{B97057DC-C860-4B66-8AB5-782DB1FA61E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Cartuchera(Program)", "01 - Cartuchera(Program)\01 - Cartuchera(Program).csproj", "{868616CF-EE1C-40FB-99AB-F43FC8907780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02 - Control de aduana(Unit Test)", "I02 - Control de aduana(Unit Test)\I02 - Control de aduana(Unit Test).csproj", "{FE41D817-AC85-42E6-9CDF-7D18613550D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "I01 - Cartuchera", "I01 - Cartuchera", "{C5AFF459-D52E-4B8B-BFBD-E37C90338D93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "I02 - Control de aduana", "I02 - Control de aduana", "{EE0DFEA8-F8C4-456F-9AFA-D7F907417BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02-Control de aduana(Library)", "I02-Control de aduana(Library)\I02-Control de aduana(Library).csproj", "{82C78ED8-6EDA-45FE-A831-A84CF33C041C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97057DC-C860-4B66-8AB5-782DB1FA61E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97057DC-C860-4B66-8AB5-782DB1FA61E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97057DC-C860-4B66-8AB5-782DB1FA61E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97057DC-C860-4B66-8AB5-782DB1FA61E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868616CF-EE1C-40FB-99AB-F43FC8907780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868616CF-EE1C-40FB-99AB-F43FC8907780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868616CF-EE1C-40FB-99AB-F43FC8907780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868616CF-EE1C-40FB-99AB-F43FC8907780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE41D817-AC85-42E6-9CDF-7D18613550D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE41D817-AC85-42E6-9CDF-7D18613550D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE41D817-AC85-42E6-9CDF-7D18613550D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE41D817-AC85-42E6-9CDF-7D18613550D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C78ED8-6EDA-45FE-A831-A84CF33C041C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C78ED8-6EDA-45FE-A831-A84CF33C041C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C78ED8-6EDA-45FE-A831-A84CF33C041C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C78ED8-6EDA-45FE-A831-A84CF33C041C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B97057DC-C860-4B66-8AB5-782DB1FA61E5} = {C5AFF459-D52E-4B8B-BFBD-E37C90338D93}
+		{868616CF-EE1C-40FB-99AB-F43FC8907780} = {C5AFF459-D52E-4B8B-BFBD-E37C90338D93}
+		{FE41D817-AC85-42E6-9CDF-7D18613550D4} = {EE0DFEA8-F8C4-456F-9AFA-D7F907417BB0}
+		{82C78ED8-6EDA-45FE-A831-A84CF33C041C} = {EE0DFEA8-F8C4-456F-9AFA-D7F907417BB0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {440DEB0B-A762-405E-8BCA-F492E0040C9F}
+	EndGlobalSection
+EndGlobal

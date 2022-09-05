@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\bin\Debug\net5.0\Modelo Libros2.deps.json
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\bin\Debug\net5.0\Modelo Libros2.dll
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\bin\Debug\net5.0\ref\Modelo Libros2.dll
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\bin\Debug\net5.0\Modelo Libros2.pdb
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\obj\Debug\net5.0\Modelo Libros2.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\obj\Debug\net5.0\Modelo Libros2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\obj\Debug\net5.0\Modelo Libros2.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\obj\Debug\net5.0\Modelo Libros2.AssemblyInfo.cs
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\obj\Debug\net5.0\Modelo Libros2.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\obj\Debug\net5.0\Modelo Libros2.dll
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\obj\Debug\net5.0\ref\Modelo Libros2.dll
+C:\Users\franc\source\repos\Entidades\Modelo Libros2\obj\Debug\net5.0\Modelo Libros2.pdb

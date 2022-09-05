@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio I02-Calculadora de formas(program)/1.0.0": {
+        "runtime": {
+          "Ejercicio I02-Calculadora de formas(program).dll": {}
+        }
+      },
+      "Ejercicio I02-Calculadora de formas/1.0.0": {
+        "runtime": {
+          "Ejercicio I02-Calculadora de formas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I02-Calculadora de formas(program)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicio I02-Calculadora de formas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

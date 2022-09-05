@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\obj\Debug\net5.0\C02-Enciendan sus motores.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\obj\Debug\net5.0\C02-Enciendan sus motores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\obj\Debug\net5.0\C02-Enciendan sus motores.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\obj\Debug\net5.0\C02-Enciendan sus motores.AssemblyInfo.cs
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\obj\Debug\net5.0\C02-Enciendan sus motores.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\bin\Debug\net5.0\C02-Enciendan sus motores.deps.json
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\bin\Debug\net5.0\C02-Enciendan sus motores.dll
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\bin\Debug\net5.0\ref\C02-Enciendan sus motores.dll
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\bin\Debug\net5.0\C02-Enciendan sus motores.pdb
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\obj\Debug\net5.0\C02-Enciendan sus motores.dll
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\obj\Debug\net5.0\ref\C02-Enciendan sus motores.dll
+C:\Users\franc\source\repos\Herencia\C02-Enciendan sus motores\obj\Debug\net5.0\C02-Enciendan sus motores.pdb

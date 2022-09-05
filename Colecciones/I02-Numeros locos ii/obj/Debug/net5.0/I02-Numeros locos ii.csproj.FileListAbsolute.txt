@@ -1,0 +1,16 @@
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\bin\Debug\net5.0\I02-Numeros locos ii.exe
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\bin\Debug\net5.0\I02-Numeros locos ii.deps.json
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\bin\Debug\net5.0\I02-Numeros locos ii.runtimeconfig.json
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\bin\Debug\net5.0\I02-Numeros locos ii.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\bin\Debug\net5.0\I02-Numeros locos ii.dll
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\bin\Debug\net5.0\ref\I02-Numeros locos ii.dll
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\bin\Debug\net5.0\I02-Numeros locos ii.pdb
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\obj\Debug\net5.0\I02-Numeros locos ii.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\obj\Debug\net5.0\I02-Numeros locos ii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\obj\Debug\net5.0\I02-Numeros locos ii.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\obj\Debug\net5.0\I02-Numeros locos ii.AssemblyInfo.cs
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\obj\Debug\net5.0\I02-Numeros locos ii.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\obj\Debug\net5.0\I02-Numeros locos ii.dll
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\obj\Debug\net5.0\ref\I02-Numeros locos ii.dll
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\obj\Debug\net5.0\I02-Numeros locos ii.pdb
+C:\Users\franc\source\repos\Colecciones\I02-Numeros locos ii\obj\Debug\net5.0\I02-Numeros locos ii.genruntimeconfig.cache

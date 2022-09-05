@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\bin\Debug\net5.0\Conexion bases de datos.deps.json
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\bin\Debug\net5.0\Conexion bases de datos.dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\bin\Debug\net5.0\ref\Conexion bases de datos.dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\bin\Debug\net5.0\Conexion bases de datos.pdb
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\obj\Debug\net5.0\Conexion bases de datos.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\obj\Debug\net5.0\Conexion bases de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\obj\Debug\net5.0\Conexion bases de datos.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\obj\Debug\net5.0\Conexion bases de datos.AssemblyInfo.cs
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\obj\Debug\net5.0\Conexion bases de datos.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\obj\Debug\net5.0\Conexion bases de datos.dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\obj\Debug\net5.0\ref\Conexion bases de datos.dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion bases de datos\obj\Debug\net5.0\Conexion bases de datos.pdb

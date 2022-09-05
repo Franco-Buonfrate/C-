@@ -1,0 +1,16 @@
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.exe
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.deps.json
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.runtimeconfig.json
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.dll
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\bin\Debug\net5.0\ref\Ejercicio I01-Lanzar y atrapar.dll
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\bin\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.pdb
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.AssemblyInfo.cs
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.dll
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\obj\Debug\net5.0\ref\Ejercicio I01-Lanzar y atrapar.dll
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.pdb
+C:\Users\franc\source\repos\Excepciones\Ejercicio I01-Lanzar y atrapar\obj\Debug\net5.0\Ejercicio I01-Lanzar y atrapar.genruntimeconfig.cache

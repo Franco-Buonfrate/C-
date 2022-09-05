@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>I01_El_viajar_es_un_placer</RootNamespace>
+  </PropertyGroup>
+
+</Project>

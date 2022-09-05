@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\obj\Debug\net5.0\I01-Test Driven Development.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\obj\Debug\net5.0\I01-Test Driven Development.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\obj\Debug\net5.0\I01-Test Driven Development.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\obj\Debug\net5.0\I01-Test Driven Development.AssemblyInfo.cs
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\obj\Debug\net5.0\I01-Test Driven Development.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\bin\Debug\net5.0\I01-Test Driven Development.deps.json
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\bin\Debug\net5.0\I01-Test Driven Development.dll
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\bin\Debug\net5.0\ref\I01-Test Driven Development.dll
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\bin\Debug\net5.0\I01-Test Driven Development.pdb
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\obj\Debug\net5.0\I01-Test Driven Development.dll
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\obj\Debug\net5.0\ref\I01-Test Driven Development.dll
+C:\Users\franc\source\repos\Pruebas unitarias\I01-Test Driven Development\obj\Debug\net5.0\I01-Test Driven Development.pdb

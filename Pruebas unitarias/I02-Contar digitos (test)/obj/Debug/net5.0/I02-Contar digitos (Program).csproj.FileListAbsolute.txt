@@ -1,0 +1,19 @@
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\bin\Debug\net5.0\I02-Contar digitos (Program).exe
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\bin\Debug\net5.0\I02-Contar digitos (Program).deps.json
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\bin\Debug\net5.0\I02-Contar digitos (Program).runtimeconfig.json
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\bin\Debug\net5.0\I02-Contar digitos (Program).runtimeconfig.dev.json
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\bin\Debug\net5.0\I02-Contar digitos (Program).dll
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\bin\Debug\net5.0\ref\I02-Contar digitos (Program).dll
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\bin\Debug\net5.0\I02-Contar digitos (Program).pdb
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\bin\Debug\net5.0\I02-Contar digitos.dll
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\bin\Debug\net5.0\I02-Contar digitos.pdb
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\obj\Debug\net5.0\I02-Contar digitos (Program).csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\obj\Debug\net5.0\I02-Contar digitos (Program).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\obj\Debug\net5.0\I02-Contar digitos (Program).AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\obj\Debug\net5.0\I02-Contar digitos (Program).AssemblyInfo.cs
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\obj\Debug\net5.0\I02-Contar digitos (Program).csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\obj\Debug\net5.0\I02-Contar digitos (Program).csproj.CopyComplete
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\obj\Debug\net5.0\I02-Contar digitos (Program).dll
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\obj\Debug\net5.0\ref\I02-Contar digitos (Program).dll
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\obj\Debug\net5.0\I02-Contar digitos (Program).pdb
+C:\Users\franc\source\repos\Pruebas unitarias\I02-Contar digitos (test)\obj\Debug\net5.0\I02-Contar digitos (Program).genruntimeconfig.cache

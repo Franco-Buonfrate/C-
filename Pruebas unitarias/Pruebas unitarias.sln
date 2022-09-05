@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02-Contar digitos", "I02-Contar digitos\I02-Contar digitos.csproj", "{87B0D50B-CDA4-457A-B4AB-CE9CE15C4911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02-Contar digitos (pruebas)", "I02-Contar digitos (pruebas)\I02-Contar digitos (pruebas).csproj", "{ECD414CC-CEE4-4C25-A9B0-04D12900AAA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02-Contar digitos (Program)", "I02-Contar digitos (test)\I02-Contar digitos (Program).csproj", "{273C399D-CF17-4856-AD61-91A3A299A5B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "I02 - Contar Digitos", "I02 - Contar Digitos", "{F7FBC8AF-82FA-443F-91D9-3399D1B03A6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "I01 - Test Driven Development", "I01 - Test Driven Development", "{3DF31B28-92C9-4921-9796-62AB1CDB0253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01-Test Driven Development", "I01-Test Driven Development\I01-Test Driven Development.csproj", "{6CB1E0F6-B6DA-4542-A800-42C14B271215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01-Test Driven Development(pruebas)", "I01-Test Driven Development(pruebas)\I01-Test Driven Development(pruebas).csproj", "{26B16A87-7773-4BBA-BE7D-635AD86D6003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B0D50B-CDA4-457A-B4AB-CE9CE15C4911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B0D50B-CDA4-457A-B4AB-CE9CE15C4911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B0D50B-CDA4-457A-B4AB-CE9CE15C4911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B0D50B-CDA4-457A-B4AB-CE9CE15C4911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD414CC-CEE4-4C25-A9B0-04D12900AAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD414CC-CEE4-4C25-A9B0-04D12900AAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD414CC-CEE4-4C25-A9B0-04D12900AAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD414CC-CEE4-4C25-A9B0-04D12900AAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273C399D-CF17-4856-AD61-91A3A299A5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273C399D-CF17-4856-AD61-91A3A299A5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273C399D-CF17-4856-AD61-91A3A299A5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273C399D-CF17-4856-AD61-91A3A299A5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB1E0F6-B6DA-4542-A800-42C14B271215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB1E0F6-B6DA-4542-A800-42C14B271215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB1E0F6-B6DA-4542-A800-42C14B271215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB1E0F6-B6DA-4542-A800-42C14B271215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B16A87-7773-4BBA-BE7D-635AD86D6003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B16A87-7773-4BBA-BE7D-635AD86D6003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B16A87-7773-4BBA-BE7D-635AD86D6003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B16A87-7773-4BBA-BE7D-635AD86D6003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{87B0D50B-CDA4-457A-B4AB-CE9CE15C4911} = {F7FBC8AF-82FA-443F-91D9-3399D1B03A6A}
+		{ECD414CC-CEE4-4C25-A9B0-04D12900AAA8} = {F7FBC8AF-82FA-443F-91D9-3399D1B03A6A}
+		{273C399D-CF17-4856-AD61-91A3A299A5B0} = {F7FBC8AF-82FA-443F-91D9-3399D1B03A6A}
+		{6CB1E0F6-B6DA-4542-A800-42C14B271215} = {3DF31B28-92C9-4921-9796-62AB1CDB0253}
+		{26B16A87-7773-4BBA-BE7D-635AD86D6003} = {3DF31B28-92C9-4921-9796-62AB1CDB0253}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82710D08-23FA-401F-B841-FC1433A663D5}
+	EndGlobalSection
+EndGlobal

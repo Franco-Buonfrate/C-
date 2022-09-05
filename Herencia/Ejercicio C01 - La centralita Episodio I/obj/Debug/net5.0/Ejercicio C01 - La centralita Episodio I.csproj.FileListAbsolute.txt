@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\bin\Debug\net5.0\Ejercicio C01 - La centralita Episodio I.deps.json
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\bin\Debug\net5.0\Ejercicio C01 - La centralita Episodio I.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\bin\Debug\net5.0\ref\Ejercicio C01 - La centralita Episodio I.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\bin\Debug\net5.0\Ejercicio C01 - La centralita Episodio I.pdb
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\obj\Debug\net5.0\Ejercicio C01 - La centralita Episodio I.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\obj\Debug\net5.0\Ejercicio C01 - La centralita Episodio I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\obj\Debug\net5.0\Ejercicio C01 - La centralita Episodio I.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\obj\Debug\net5.0\Ejercicio C01 - La centralita Episodio I.AssemblyInfo.cs
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\obj\Debug\net5.0\Ejercicio C01 - La centralita Episodio I.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\obj\Debug\net5.0\Ejercicio C01 - La centralita Episodio I.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\obj\Debug\net5.0\ref\Ejercicio C01 - La centralita Episodio I.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio C01 - La centralita Episodio I\obj\Debug\net5.0\Ejercicio C01 - La centralita Episodio I.pdb

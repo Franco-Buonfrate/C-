@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Ejercicio_I01_Lanzar_y_atrapar_main_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ejercicio I01-Lanzar y atrapar\Ejercicio I01-Lanzar y atrapar.csproj" />
+  </ItemGroup>
+
+</Project>

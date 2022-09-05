@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\bin\Debug\net5.0\I01-El viajar es un placer.deps.json
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\bin\Debug\net5.0\I01-El viajar es un placer.dll
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\bin\Debug\net5.0\ref\I01-El viajar es un placer.dll
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\bin\Debug\net5.0\I01-El viajar es un placer.pdb
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\obj\Debug\net5.0\I01-El viajar es un placer.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\obj\Debug\net5.0\I01-El viajar es un placer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\obj\Debug\net5.0\I01-El viajar es un placer.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\obj\Debug\net5.0\I01-El viajar es un placer.AssemblyInfo.cs
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\obj\Debug\net5.0\I01-El viajar es un placer.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\obj\Debug\net5.0\I01-El viajar es un placer.dll
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\obj\Debug\net5.0\ref\I01-El viajar es un placer.dll
+C:\Users\franc\source\repos\Herencia\I01-El viajar es un placer\obj\Debug\net5.0\I01-El viajar es un placer.pdb

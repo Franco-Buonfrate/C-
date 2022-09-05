@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\bin\Debug\net5.0\I01-Puesto de atencion.deps.json
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\bin\Debug\net5.0\I01-Puesto de atencion.dll
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\bin\Debug\net5.0\ref\I01-Puesto de atencion.dll
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\bin\Debug\net5.0\I01-Puesto de atencion.pdb
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\obj\Debug\net5.0\I01-Puesto de atencion.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\obj\Debug\net5.0\I01-Puesto de atencion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\obj\Debug\net5.0\I01-Puesto de atencion.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\obj\Debug\net5.0\I01-Puesto de atencion.AssemblyInfo.cs
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\obj\Debug\net5.0\I01-Puesto de atencion.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\obj\Debug\net5.0\I01-Puesto de atencion.dll
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\obj\Debug\net5.0\ref\I01-Puesto de atencion.dll
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion\obj\Debug\net5.0\I01-Puesto de atencion.pdb

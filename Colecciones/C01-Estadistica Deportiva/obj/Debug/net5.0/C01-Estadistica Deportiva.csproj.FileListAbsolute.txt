@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\bin\Debug\net5.0\C01-Estadistica Deportiva.deps.json
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\bin\Debug\net5.0\C01-Estadistica Deportiva.dll
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\bin\Debug\net5.0\ref\C01-Estadistica Deportiva.dll
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\bin\Debug\net5.0\C01-Estadistica Deportiva.pdb
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\obj\Debug\net5.0\C01-Estadistica Deportiva.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\obj\Debug\net5.0\C01-Estadistica Deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\obj\Debug\net5.0\C01-Estadistica Deportiva.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\obj\Debug\net5.0\C01-Estadistica Deportiva.AssemblyInfo.cs
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\obj\Debug\net5.0\C01-Estadistica Deportiva.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\obj\Debug\net5.0\C01-Estadistica Deportiva.dll
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\obj\Debug\net5.0\ref\C01-Estadistica Deportiva.dll
+C:\Users\franc\source\repos\Colecciones\C01-Estadistica Deportiva\obj\Debug\net5.0\C01-Estadistica Deportiva.pdb

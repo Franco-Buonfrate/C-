@@ -1,0 +1,18 @@
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\bin\Debug\net5.0-windows\C01-Herencia deportiva.exe
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\bin\Debug\net5.0-windows\C01-Herencia deportiva.deps.json
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\bin\Debug\net5.0-windows\C01-Herencia deportiva.runtimeconfig.json
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\bin\Debug\net5.0-windows\C01-Herencia deportiva.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\bin\Debug\net5.0-windows\C01-Herencia deportiva.dll
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\bin\Debug\net5.0-windows\ref\C01-Herencia deportiva.dll
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\bin\Debug\net5.0-windows\C01-Herencia deportiva.pdb
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\obj\Debug\net5.0-windows\C01-Herencia deportiva.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\obj\Debug\net5.0-windows\C01_Herencia_deportiva.Form1.resources
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\obj\Debug\net5.0-windows\C01-Herencia deportiva.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\obj\Debug\net5.0-windows\C01-Herencia deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\obj\Debug\net5.0-windows\C01-Herencia deportiva.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\obj\Debug\net5.0-windows\C01-Herencia deportiva.AssemblyInfo.cs
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\obj\Debug\net5.0-windows\C01-Herencia deportiva.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\obj\Debug\net5.0-windows\C01-Herencia deportiva.dll
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\obj\Debug\net5.0-windows\ref\C01-Herencia deportiva.dll
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\obj\Debug\net5.0-windows\C01-Herencia deportiva.pdb
+C:\Users\franc\source\repos\Herencia\C01-Herencia deportiva\obj\Debug\net5.0-windows\C01-Herencia deportiva.genruntimeconfig.cache

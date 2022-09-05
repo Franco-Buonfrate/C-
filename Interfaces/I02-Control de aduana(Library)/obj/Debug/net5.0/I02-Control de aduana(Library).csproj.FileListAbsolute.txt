@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\bin\Debug\net5.0\I02-Control de aduana(Library).deps.json
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\bin\Debug\net5.0\I02-Control de aduana(Library).dll
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\bin\Debug\net5.0\ref\I02-Control de aduana(Library).dll
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\bin\Debug\net5.0\I02-Control de aduana(Library).pdb
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\obj\Debug\net5.0\I02-Control de aduana(Library).csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\obj\Debug\net5.0\I02-Control de aduana(Library).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\obj\Debug\net5.0\I02-Control de aduana(Library).AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\obj\Debug\net5.0\I02-Control de aduana(Library).AssemblyInfo.cs
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\obj\Debug\net5.0\I02-Control de aduana(Library).csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\obj\Debug\net5.0\I02-Control de aduana(Library).dll
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\obj\Debug\net5.0\ref\I02-Control de aduana(Library).dll
+C:\Users\franc\source\repos\Interfaces\I02-Control de aduana(Library)\obj\Debug\net5.0\I02-Control de aduana(Library).pdb

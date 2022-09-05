@@ -1,0 +1,19 @@
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\bin\Debug\net5.0\I01-Puesto de atencion (main).exe
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\bin\Debug\net5.0\I01-Puesto de atencion (main).deps.json
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\bin\Debug\net5.0\I01-Puesto de atencion (main).runtimeconfig.json
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\bin\Debug\net5.0\I01-Puesto de atencion (main).runtimeconfig.dev.json
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\bin\Debug\net5.0\I01-Puesto de atencion (main).dll
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\bin\Debug\net5.0\ref\I01-Puesto de atencion (main).dll
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\bin\Debug\net5.0\I01-Puesto de atencion (main).pdb
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\bin\Debug\net5.0\I01-Puesto de atencion.dll
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\bin\Debug\net5.0\I01-Puesto de atencion.pdb
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\obj\Debug\net5.0\I01-Puesto de atencion (main).csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\obj\Debug\net5.0\I01-Puesto de atencion (main).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\obj\Debug\net5.0\I01-Puesto de atencion (main).AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\obj\Debug\net5.0\I01-Puesto de atencion (main).AssemblyInfo.cs
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\obj\Debug\net5.0\I01-Puesto de atencion (main).csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\obj\Debug\net5.0\I01-Puesto de atencion (main).csproj.CopyComplete
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\obj\Debug\net5.0\I01-Puesto de atencion (main).dll
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\obj\Debug\net5.0\ref\I01-Puesto de atencion (main).dll
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\obj\Debug\net5.0\I01-Puesto de atencion (main).pdb
+C:\Users\franc\source\repos\Encapsulamiento\I01-Puesto de atencion (main)\obj\Debug\net5.0\I01-Puesto de atencion (main).genruntimeconfig.cache

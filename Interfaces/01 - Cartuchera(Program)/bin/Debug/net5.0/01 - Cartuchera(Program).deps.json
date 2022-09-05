@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "01 - Cartuchera(Program)/1.0.0": {
+        "runtime": {
+          "01 - Cartuchera(Program).dll": {}
+        }
+      },
+      "I01 - Cartuchera(library)/1.0.0": {
+        "runtime": {
+          "I01 - Cartuchera(library).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01 - Cartuchera(Program)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "I01 - Cartuchera(library)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

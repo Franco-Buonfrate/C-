@@ -1,0 +1,12 @@
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\bin\Debug\net5.0\ClassLibraryAtraparYLanzar.deps.json
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\bin\Debug\net5.0\ClassLibraryAtraparYLanzar.dll
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\bin\Debug\net5.0\ref\ClassLibraryAtraparYLanzar.dll
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\bin\Debug\net5.0\ClassLibraryAtraparYLanzar.pdb
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\obj\Debug\net5.0\ClassLibraryAtraparYLanzar.csproj.AssemblyReference.cache
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\obj\Debug\net5.0\ClassLibraryAtraparYLanzar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\obj\Debug\net5.0\ClassLibraryAtraparYLanzar.AssemblyInfoInputs.cache
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\obj\Debug\net5.0\ClassLibraryAtraparYLanzar.AssemblyInfo.cs
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\obj\Debug\net5.0\ClassLibraryAtraparYLanzar.csproj.CoreCompileInputs.cache
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\obj\Debug\net5.0\ClassLibraryAtraparYLanzar.dll
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\obj\Debug\net5.0\ref\ClassLibraryAtraparYLanzar.dll
+C:\Users\Negocio\Source\Repos\EjerClase02\ClassLibraryAtraparYLanzar\obj\Debug\net5.0\ClassLibraryAtraparYLanzar.pdb

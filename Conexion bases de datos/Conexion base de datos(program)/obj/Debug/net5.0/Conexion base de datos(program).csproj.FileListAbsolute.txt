@@ -1,0 +1,25 @@
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\Conexion base de datos(program).exe
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\Conexion base de datos(program).deps.json
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\Conexion base de datos(program).runtimeconfig.json
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\Conexion base de datos(program).runtimeconfig.dev.json
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\Conexion base de datos(program).dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\ref\Conexion base de datos(program).dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\Conexion base de datos(program).pdb
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\Conexion bases de datos.dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\bin\Debug\net5.0\Conexion bases de datos.pdb
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\obj\Debug\net5.0\Conexion base de datos(program).csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\obj\Debug\net5.0\Conexion base de datos(program).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\obj\Debug\net5.0\Conexion base de datos(program).AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\obj\Debug\net5.0\Conexion base de datos(program).AssemblyInfo.cs
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\obj\Debug\net5.0\Conexion base de datos(program).csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\obj\Debug\net5.0\Conexion base de datos(program).csproj.CopyComplete
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\obj\Debug\net5.0\Conexion base de datos(program).dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\obj\Debug\net5.0\ref\Conexion base de datos(program).dll
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\obj\Debug\net5.0\Conexion base de datos(program).pdb
+C:\Users\franc\source\repos\Conexion bases de datos\Conexion base de datos(program)\obj\Debug\net5.0\Conexion base de datos(program).genruntimeconfig.cache

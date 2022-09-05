@@ -1,0 +1,18 @@
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\bin\Debug\net5.0-windows\Ejercicio I01-El relojero.exe
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\bin\Debug\net5.0-windows\Ejercicio I01-El relojero.deps.json
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\bin\Debug\net5.0-windows\Ejercicio I01-El relojero.runtimeconfig.json
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\bin\Debug\net5.0-windows\Ejercicio I01-El relojero.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\bin\Debug\net5.0-windows\Ejercicio I01-El relojero.dll
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\bin\Debug\net5.0-windows\ref\Ejercicio I01-El relojero.dll
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\bin\Debug\net5.0-windows\Ejercicio I01-El relojero.pdb
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\obj\Debug\net5.0-windows\Ejercicio I01-El relojero.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\obj\Debug\net5.0-windows\Ejercicio_I01_El_relojero.Form1.resources
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\obj\Debug\net5.0-windows\Ejercicio I01-El relojero.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\obj\Debug\net5.0-windows\Ejercicio I01-El relojero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\obj\Debug\net5.0-windows\Ejercicio I01-El relojero.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\obj\Debug\net5.0-windows\Ejercicio I01-El relojero.AssemblyInfo.cs
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\obj\Debug\net5.0-windows\Ejercicio I01-El relojero.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\obj\Debug\net5.0-windows\Ejercicio I01-El relojero.dll
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\obj\Debug\net5.0-windows\ref\Ejercicio I01-El relojero.dll
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\obj\Debug\net5.0-windows\Ejercicio I01-El relojero.pdb
+C:\Users\franc\source\repos\Hilos\Ejercicio I01-El relojero\obj\Debug\net5.0-windows\Ejercicio I01-El relojero.genruntimeconfig.cache

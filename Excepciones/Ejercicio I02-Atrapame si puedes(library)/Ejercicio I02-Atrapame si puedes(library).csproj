@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Ejercicio_I02_Atrapame_si_puedes_library_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

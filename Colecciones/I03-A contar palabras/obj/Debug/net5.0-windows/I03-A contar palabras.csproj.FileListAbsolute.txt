@@ -1,0 +1,18 @@
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\bin\Debug\net5.0-windows\I03-A contar palabras.exe
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\bin\Debug\net5.0-windows\I03-A contar palabras.deps.json
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\bin\Debug\net5.0-windows\I03-A contar palabras.runtimeconfig.json
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\bin\Debug\net5.0-windows\I03-A contar palabras.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\bin\Debug\net5.0-windows\I03-A contar palabras.dll
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\bin\Debug\net5.0-windows\ref\I03-A contar palabras.dll
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\bin\Debug\net5.0-windows\I03-A contar palabras.pdb
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\obj\Debug\net5.0-windows\I03-A contar palabras.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\obj\Debug\net5.0-windows\I03_A_contar_palabras.FormContadorDePalabras.resources
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\obj\Debug\net5.0-windows\I03-A contar palabras.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\obj\Debug\net5.0-windows\I03-A contar palabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\obj\Debug\net5.0-windows\I03-A contar palabras.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\obj\Debug\net5.0-windows\I03-A contar palabras.AssemblyInfo.cs
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\obj\Debug\net5.0-windows\I03-A contar palabras.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\obj\Debug\net5.0-windows\I03-A contar palabras.dll
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\obj\Debug\net5.0-windows\ref\I03-A contar palabras.dll
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\obj\Debug\net5.0-windows\I03-A contar palabras.pdb
+C:\Users\franc\source\repos\Colecciones\I03-A contar palabras\obj\Debug\net5.0-windows\I03-A contar palabras.genruntimeconfig.cache

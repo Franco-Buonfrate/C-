@@ -1,0 +1,16 @@
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.exe
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.deps.json
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.runtimeconfig.json
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\ref\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\bin\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.pdb
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.AssemblyInfo.cs
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\ref\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.pdb
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I01-Sobre-sobrescribiendo esas advertencias\obj\Debug\net5.0\Ejercicio I01-Sobre-sobrescribiendo esas advertencias.genruntimeconfig.cache

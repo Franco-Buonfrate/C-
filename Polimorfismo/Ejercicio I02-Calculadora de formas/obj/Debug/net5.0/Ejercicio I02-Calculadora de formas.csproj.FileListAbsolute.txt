@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\bin\Debug\net5.0\Ejercicio I02-Calculadora de formas.deps.json
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\bin\Debug\net5.0\Ejercicio I02-Calculadora de formas.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\bin\Debug\net5.0\ref\Ejercicio I02-Calculadora de formas.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\bin\Debug\net5.0\Ejercicio I02-Calculadora de formas.pdb
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\obj\Debug\net5.0\Ejercicio I02-Calculadora de formas.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\obj\Debug\net5.0\Ejercicio I02-Calculadora de formas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\obj\Debug\net5.0\Ejercicio I02-Calculadora de formas.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\obj\Debug\net5.0\Ejercicio I02-Calculadora de formas.AssemblyInfo.cs
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\obj\Debug\net5.0\Ejercicio I02-Calculadora de formas.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\obj\Debug\net5.0\Ejercicio I02-Calculadora de formas.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\obj\Debug\net5.0\ref\Ejercicio I02-Calculadora de formas.dll
+C:\Users\franc\source\repos\Polimorfismo\Ejercicio I02-Calculadora de formas\obj\Debug\net5.0\Ejercicio I02-Calculadora de formas.pdb

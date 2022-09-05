@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>I02_Control_de_aduana_Library_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

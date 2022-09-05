@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LanzarYAtrapar/1.0.0": {
+        "dependencies": {
+          "ClassLibraryAtraparYLanzar": "1.0.0"
+        },
+        "runtime": {
+          "LanzarYAtrapar.dll": {}
+        }
+      },
+      "ClassLibraryAtraparYLanzar/1.0.0": {
+        "runtime": {
+          "ClassLibraryAtraparYLanzar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LanzarYAtrapar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryAtraparYLanzar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
